@@ -15,20 +15,20 @@ HomeLanSync is a new way of share photos, we use the app between our family and 
 
 ## QuickStart
 
-### INSTALLATION
+### Installtion
 
 To install HomeLansync, simply download the apk from here, and the software on pc here.
 
-### REQUIREMENTS
+### Requirements
 
 HomeLansync apk could running on Android phone which version above 2.3.
 And, the PC end software requires a Java Runtime Environment (JRE) of version 1.7 or above. If you need to use it in a lower version, get in contact with me and I'll see what I can do.
 
 Download Java [here](http://java.com/)
 
-### USAGE
+### Usage
 
-1. RUNNING
+1. Running
 
 - Start the PC end software
 
@@ -40,7 +40,7 @@ We can configure the PC end lately.
 Tap the installed app named 'HomeLanSync'. Then, enter the username as 'my', and password as '123', then tap the 'Login' button, after the app logged you in. Simply tap the 'upload' button, then that is it. All photos you captured will automaticly upload onto your PC. You can check out the photos on the directory 'D:\photos'(also, this could be changed later).
 
 
-2. CONFIGURATION
+2. Configuration
    
 Before running the PC end software installed, here are some configuration could be updated. All configration items in file 'config.properties'. Just use your favorite text editor open the file.
 
@@ -57,18 +57,18 @@ There are other configration items, all these items could be changed in GUI styl
 This is the only file you need modified for run HomeLansync PC end.
 
 
-## FUTURE FEATURES
+## Future Features
 
 Some features that might be added in the future.
 
 If you think you need some feature, please feel free to contact me and I should be able to figure it out.
 
-## DOWNLOAD
+## Download
 
 PC end software
 APK
 
-## CONTACT
+## Contact
 
 - Reporting Bugs 
 
