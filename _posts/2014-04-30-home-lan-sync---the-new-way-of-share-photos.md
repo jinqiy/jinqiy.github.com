@@ -32,33 +32,29 @@ Download Java [here](http://java.com/)
 
 - Start the PC end software
 
-   To use HomeLansync, simply unzip the downloaded file  into a directory on PC. Then, double click the exe file.
-   We can configure the PC end lately.
+To use HomeLansync, simply unzip the downloaded file  into a directory on PC. Then, double click the exe file.
+We can configure the PC end lately.
 
 - Start the app on Android phone
 
-   Tap the installed app named 'HomeLanSync'. Then, enter the username as 'my', and password as '123', then tap the 'Login' button, after the app logged you in. Simply tap the 'upload' button, then that is it. All photos you captured will automaticly upload onto your PC. You can check out the photos on the directory 'D:\photos'(also, this could be changed later).
+Tap the installed app named 'HomeLanSync'. Then, enter the username as 'my', and password as '123', then tap the 'Login' button, after the app logged you in. Simply tap the 'upload' button, then that is it. All photos you captured will automaticly upload onto your PC. You can check out the photos on the directory 'D:\photos'(also, this could be changed later).
 
 
 2. CONFIGURATION
    
-   Before running the PC end software installed, here are some configuration could be updated. All configration items in file 'config.properties'. Just use your favorite text editor open the file.
+Before running the PC end software installed, here are some configuration could be updated. All configration items in file 'config.properties'. Just use your favorite text editor open the file.
 
-    ---
-    resourceBase=D\:/photos
-    ---
+>resourceBase=D\:/photos
 
-   This is where you will store the photos.
+This is where you will store the photos.
 
-    ---
-    javacmd=C\:\\Program Files\\Java\\jdk1.7.0\\jre\\bin\\java.exe
-    ---
+>javacmd=C\:\\Program Files\\Java\\jdk1.7.0\\jre\\bin\\java.exe
 
-   The full path to java.exe in your PC.
+The full path to java.exe in your PC.
 
-   There are other configration items, all these items could be changed in GUI style too.
+There are other configration items, all these items could be changed in GUI style too.
 
-   This is the only file you need modified for run HomeLansync PC end.
+This is the only file you need modified for run HomeLansync PC end.
 
 
 ## FUTURE FEATURES
@@ -74,12 +70,11 @@ APK
 
 ## CONTACT
 
- - Reporting Bugs -
+- Reporting Bugs 
 
-   If you find a bug, please send me an email, with the subject "HomeLanSync BUG", to
-      jasen.yin@gmail.com
-   Please describe the problem VERBOSELY.
+If you find a bug, please send me an email, with the subject "HomeLanSync BUG", to [bug collector](mailto:jasen.yin@gmail.com)
+Please describe the problem VERBOSELY.
 
- - Contacting the Creator -
+ - Contacting the Creator 
 
-   I can be reached at jasen.yin@gmail.com
+I can be reached at [creator](mailto:jasen.yin@gmail.com)
