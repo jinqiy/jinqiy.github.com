@@ -28,7 +28,7 @@ Download Java [here](http://java.com/)
 
 ### Usage
 
-## Running
+#### Running
 
 - Start the PC end software
 
@@ -40,15 +40,15 @@ We can configure the PC end lately.
 Tap the installed app named 'HomeLanSync'. Then, enter the username as 'my', and password as '123', then tap the 'Login' button, after the app logged you in. Simply tap the 'upload' button, then that is it. All photos you captured will automaticly upload onto your PC. You can check out the photos on the directory 'D:\photos'(also, this could be changed later).
 
 
-## Configuration
+#### Configuration
    
 Before running the PC end software installed, here are some configuration could be updated. All configration items in file 'config.properties'. Just use your favorite text editor open the file.
 
->resourceBase=D\:/photos
+>resourceBase=D\\:/photos
 
 This is where you will store the photos.
 
->javacmd=C\:\\Program Files\\Java\\jdk1.7.0\\jre\\bin\\java.exe
+>javacmd=C\\:\\Program Files\\Java\\jdk1.7.0\\jre\\bin\\java.exe
 
 The full path to java.exe in your PC.
 
