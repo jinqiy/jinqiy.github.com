@@ -44,11 +44,11 @@ Tap the installed app named 'HomeLanSync'. Then, enter the username as 'my', and
    
 Before running the PC end software installed, here are some configuration could be updated. All configration items in file 'config.properties'. Just use your favorite text editor open the file.
 
->resourceBase=D\\:/photos
+    resourceBase=D\\:/photos
 
 This is where you will store the photos.
 
->javacmd=C\\:\\Program Files\\Java\\jdk1.7.0\\jre\\bin\\java.exe
+    javacmd=C\\:\\Program Files\\Java\\jdk1.7.0\\jre\\bin\\java.exe
 
 The full path to java.exe in your PC.
 
