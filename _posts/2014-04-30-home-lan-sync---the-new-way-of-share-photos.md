@@ -37,7 +37,7 @@ We can configure the PC end lately.
 
 - Start the app on Android phone
 
-Tap the installed app named 'HomeLanSync'. Then, enter the username as 'my', and password as '123', then tap the 'Login' button, after the app logged you in. Simply tap the 'upload' button, then that is it. All photos you captured will automaticly upload onto your PC. You can check out the photos on the directory 'D:\photos'(also, this could be changed later).
+Tap the installed app named `HomeLanSync`. Then, enter the username as 'my', and password as '123', then tap the 'Login' button, after the app logged you in. Simply tap the 'upload' button, then that is it. All photos you captured will automaticly upload onto your PC. You can check out the photos on the directory 'D:\photos'(also, this could be changed later).
 
 
 #### Configuration
