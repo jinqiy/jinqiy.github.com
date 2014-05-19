@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strength Training for New Runners"
+title: "初跑者的力量训练"
 description: ""
 category: 
 tags: []
