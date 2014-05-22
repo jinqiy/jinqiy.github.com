@@ -2,8 +2,8 @@
 layout: post
 title: "初跑者的力量训练"
 description: ""
-category: 
-tags: []
+category: running 
+tags: [running, streght]
 ---
 {% include JB/setup %}
 
